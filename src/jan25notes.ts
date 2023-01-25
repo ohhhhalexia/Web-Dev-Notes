@@ -62,3 +62,5 @@ AudioParamMap.listen(PORT, handleListenEvent);
 // i have no idea if the port has been bound yet UNLESS the next line executes
 console.log('The listen function just executed.')
 //when compiled it says "listen function just executed listening on port blah blah blah"
+
+what is going on 
